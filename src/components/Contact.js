@@ -8,7 +8,7 @@ export default  function Contact(){
     return(
         <div className={styles.contactContainer}>
             <div className={styles.float}>
-                <a target="_blank" href="https://wa.me/21975707560" rel="noopener noreferrer" className={styles.link}>
+                <a target="_blank" href="https://wa.me/5521975707560" rel="noopener noreferrer" className={styles.link}>
                     <img src={whatsapp} alt="ícone do whatsapp"/>
                     <span>Whatsapp</span>
                 </a>
